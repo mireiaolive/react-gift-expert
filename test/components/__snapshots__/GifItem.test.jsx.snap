@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Probando componente <GifItem/> debe hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Tim Burton Film GIF by Tech Noir"
+      src="https://media4.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif?cid=638e8c3cq4ztdf635cj607e70x2q3w7z0k6y8h04e3g6vw79&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    />
+    <p>
+      Tim Burton Film GIF by Tech Noir
+    </p>
+  </div>
+</div>
+`;
